@@ -28,7 +28,7 @@ pip install adabelief-pytorch==0.2.0
 
 |類別|模型|Jupyter Notebook|最佳模型權重|預測結果圖|
 --|--|--|--|--|
-最佳模型|EfficientNetv2-m|--0--|[EfficientNetV2-m](https://drive.google.com/file/d/1OgITEmRlynHn6ODyTg-ccQpZMfDs3yKk/view?usp=sharing)|--0--|
+最佳模型|EfficientNetv2-m|[tf_efficientnetv2_m_in21ft1k](https://github.com/scps980302/aicup_code/blob/main/Finally_tinghong_tf_efficientnetv2_m_in21ft1k.ipynb)|[EfficientNetV2-m](https://drive.google.com/file/d/1OgITEmRlynHn6ODyTg-ccQpZMfDs3yKk/view?usp=sharing)|[預測結果圖](https://github.com/scps980302/aicup_code/blob/main/Best_tf_efficientnetv2_m_in21ft1k.zip)|
 
 # 使用說明
 主要需要更改訓練及驗證影像存放的路徑`data_path`
